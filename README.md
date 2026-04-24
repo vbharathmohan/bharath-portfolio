@@ -19,7 +19,7 @@ Hi, I'm Bharath Mohan, an M.Eng student at UC Berkeley specializing in Robotics.
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [Predictive Maintenance Data Pipeline](./cmapss-pipeline/) | End-to-end medallion architecture pipeline ingesting NASA turbofan sensor data through Bronze → Silver → Gold layers with a Lakeview BI dashboard | Databricks · PySpark · Delta Lake · Unity Catalog | ✅ Complete |
+| [Predictive Maintenance Data Pipeline](./cmapss-pipeline/) | End-to-end medallion architecture pipeline ingesting NASA turbofan sensor data through Bronze → Silver → Gold layers with a Lakeview BI dashboard | Databricks · PySpark · Delta Lake · Unity Catalog | Complete |
 
 ---
 
@@ -27,7 +27,7 @@ Hi, I'm Bharath Mohan, an M.Eng student at UC Berkeley specializing in Robotics.
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [Turbofan Engine RUL Prediction](./cmapss-ml/) | XGBoost regression and classification models predicting Remaining Useful Life of industrial engines, tracked with MLflow | XGBoost · MLflow · Databricks · Scikit-learn | ✅ Complete |
+| [Turbofan Engine RUL Prediction](./cmapss-ml/) | XGBoost regression and classification models predicting Remaining Useful Life of industrial engines, tracked with MLflow | XGBoost · MLflow · Databricks · Scikit-learn | Complete |
 
 ---
 
