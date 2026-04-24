@@ -9,7 +9,7 @@ This project builds a production-style **end-to-end data engineering pipeline** 
 
 The domain mirrors real-world industrial use cases - **predictive maintenance in oil refineries, manufacturing plants, and aerospace** - where sensor data from equipment must be collected, cleaned, and made analytics-ready before any intelligent decision-making can happen.
 
-The Silver layer output of this pipeline feeds directly into a companion ML project: **[Turbofan Engine RUL Prediction](#)**.
+The Silver layer output of this pipeline feeds directly into a companion ML project: **[Turbofan Engine RUL Prediction](https://github.com/vbharathmohan/bharath-portfolio/tree/main/cmapss-ml)**.
 
 ---
 
@@ -176,7 +176,7 @@ The Lakeview BI dashboard built on Gold tables delivers 5 visualizations:
 
 The Silver layer of this pipeline feeds directly into the companion ML project where an XGBoost model is trained on `silver_train` to predict Remaining Useful Life, tracked and versioned using MLflow on Databricks.
 
-→ **[Turbofan Engine RUL Prediction](#)**
+→ **[Turbofan Engine RUL Prediction](https://github.com/vbharathmohan/bharath-portfolio/tree/main/cmapss-ml)**
 
 ---
 
