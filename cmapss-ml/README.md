@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project builds two machine learning models to predict the **Remaining Useful Life (RUL)** of turbofan engines using multivariate sensor time-series data. It is the direct continuation of the [Predictive Maintenance Data Pipeline](#) project - the Silver layer Delta table produced by that pipeline is the input to this ML pipeline.
+This project builds two machine learning models to predict the **Remaining Useful Life (RUL)** of turbofan engines using multivariate sensor time-series data. It is the direct continuation of the [Predictive Maintenance Data Pipeline](https://github.com/vbharathmohan/bharath-portfolio/tree/main/cmapss-pipeline) project - the Silver layer Delta table produced by that pipeline is the input to this ML pipeline.
 
 Two complementary models are built:
 - **Regression model**: predicts exact RUL in cycles, useful for scheduling precise maintenance windows
